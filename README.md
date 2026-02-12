@@ -1,2 +1,2 @@
-# This is my odin -recipes project 
+# This is my odin-recipes project 
 Just trying to follow the exercises ...
